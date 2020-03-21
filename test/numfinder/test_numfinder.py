@@ -15,3 +15,19 @@ class Test(unittest.TestCase):
         
 if __name__ == '__main__':
     unittest.main()
+    
+"""
+$ coverage report -m
+Name                                                        Stmts   Miss  Cover   Missing
+-----------------------------------------------------------------------------------------
+D:\mooc-software-testing\__init__.py                            0      0   100%
+D:\mooc-software-testing\src\__init__.py                        0      0   100%
+D:\mooc-software-testing\src\numfinder\NumFinder.py            12      0   100%
+D:\mooc-software-testing\src\numfinder\__init__.py              0      0   100%
+D:\mooc-software-testing\test\__init__.py                       0      0   100%
+D:\mooc-software-testing\test\numfinder\__init__.py             0      0   100%
+D:\mooc-software-testing\test\numfinder\test_numfinder.py       8      0   100%
+-----------------------------------------------------------------------------------------
+TOTAL                                                          20      0   100%
+
+"""
