@@ -7,4 +7,6 @@ TU Delft's edX MOOC on Software Testing.
 
 This repository is licensed under CC BY-NC-SA.
 
-## Modification here
+## Work
+
+Since this class uses Java, but I am NOT really a JAVA fan, instead I will try to rewrite in Python manner. 
